@@ -63,5 +63,4 @@ class ContactController {
     response.sendStatus(204);
   }
 }
-
 module.exports = new ContactController();
